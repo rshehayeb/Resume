@@ -17,10 +17,13 @@ Postdoctoral Researcher and Scientific Coordinator with over 5 years of experien
   *July 2024 – Present* | Dresden, Germany  
   * Coordinating and contributing to the research processes (publications, conference sessions, research infrastructure, communications) of the Leibniz Lab "Systemic Sustainability" and the Leibniz Research Network "Earth & Societies".
   * Co-chair of "Freshwater & Societies" working group within the network.
+  * Mentoring doctoral candidates
 
-* **Teaching (Part-time)** | Technische Universität Dresden & CIPSEM  
-  *May 2022 – Present* | Dresden, Germany  
-  * Involved in multiple teaching roles including content delivery, correction of examination, supervision of projects, presenting, and preparation of lectures.
+* **Lecturer & Teaching Assistant (Part-time)** | Technische Universität Dresden & CIPSEM
+  *May 2022 – Present* | Dresden, Germany
+  * Design and deliver lectures and course modules on water resources, environmental risks, and climate adaptation.
+  * Supervise student research projects, coursework, and practical assignments.
+  * Develop examination materials, evaluate exams and coursework.
 
 * **Research Assistant Intern** | UNU-FLORES  
   *Oct. 2020 – Jan. 2021* | Dresden, Germany  
