@@ -4,7 +4,8 @@
 **Date of Birth:** 07.02.1993  
 **Tel:** +491782385314 | **Email:** r.shehayeb@outlook.com  
 **LinkedIn:** [linkedin.com/in/raghidshehayeb](https://www.linkedin.com/in/raghidshehayeb/)
-**Professional Summary**  
+
+#### Professional Summary  
 Postdoctoral Researcher and Scientific Coordinator with over 5 years of experience leading interdisciplinary research in water resources management, climate risks, and systemic sustainability. Proven track record in coordinating international research networks, leading multi-stakeholder projects, university-level teaching and supervision, and publishing peer-reviewed studies. Dedicated to advancing actionable research that empowers decision-makers in driving sustainability transformations.
 
 ---
