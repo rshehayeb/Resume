@@ -19,7 +19,7 @@ Postdoctoral Researcher and Scientific Coordinator with over 5 years of experien
   * Co-chair of "Freshwater & Societies" working group within the network.
   * Mentoring doctoral candidates
 
-* **Lecturer & Teaching Assistant (Part-time)** | Technische Universität Dresden & CIPSEM
+* **Lecturer & Teaching Assistant (Part-time)** | Technische Universität Dresden & CIPSEM  
   *May 2022 – Present* | Dresden, Germany
   * Design and deliver lectures and course modules on water resources, environmental risks, and climate adaptation.
   * Supervise student research projects, coursework, and practical assignments.
