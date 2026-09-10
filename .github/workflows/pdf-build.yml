@@ -1,4 +1,7 @@
-name: Build PDF
+name: Compile Markdown to PDF
+        uses: docker://pandoc/latex:latest
+        with:
+          args: cv.md -o cv.pdf --pdf-engine=xelatex -V geometry:margin=0.75in
 
 on:
   push:
