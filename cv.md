@@ -2,6 +2,7 @@
 
 **Address:** Loosestr. 22, 01662 Meißen, Germany  
 **Date of Birth:** 07.02.1993
+
 **Nationality:** Lebanese
 **Tel:** +491782385314 | **Email:** r.shehayeb@outlook.com  
 **LinkedIn:** [linkedin.com/in/raghidshehayeb](https://www.linkedin.com/in/raghidshehayeb/)
