@@ -50,7 +50,7 @@ Postdoctoral Researcher and Scientific Coordinator with over 5 years of experien
 
 ---
 
-## Publications
+## Key Publications
 
 * **Shehayeb, R.** (2026). Testing the drought and heat risk assessment framework for ecosystem Services of Urban Green Infrastructure. *City and Environment Interactions*, 31, p. 100448. https://doi.org/10.1016/j.cacint.2026.100448
 * Prinsloo, A.S., ..., **Shehayeb, R.**, et al. (2026). Recent trajectories of biometeorology in the Global South: a systematic review of biometeorology research in the International Journal of Biometeorology. *International Journal of Biometeorology*, 70(5), p. 156. https://doi.org/10.1007/s00484-026-03213-5
