@@ -1,16 +1,14 @@
-name: Compile Markdown to PDF
-        uses: docker://pandoc/latex:latest
-        with:
-          args: cv.md -o cv.pdf --pdf-engine=xelatex -V geometry:margin=0.75in
+name: Build PDF
 
 on:
   push:
-    branches: [ main ]
-    paths:
-      - 'cv.md' # Only run when cv.md changes to prevent infinite build loops
+    branches:
+      - main
+      - master
+  workflow_dispatch:
 
 permissions:
-  contents: write # Grants permission to commit cv.pdf back to the repo
+  contents: write
 
 jobs:
   convert_via_pandoc:
@@ -22,7 +20,7 @@ jobs:
       - name: Compile Markdown to PDF
         uses: docker://pandoc/latex:latest
         with:
-          args: cv.md -o cv.pdf --pdf-engine=xelatex
+          args: cv.md -o cv.pdf --pdf-engine=xelatex -V geometry:margin=0.75in -V linestretch=1.15
 
       - name: Commit compiled PDF
         run: |
