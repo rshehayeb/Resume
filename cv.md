@@ -5,8 +5,7 @@
 **Nationality:** Lebanese  
 **Tel:** +491782385314 | **Email:** r.shehayeb@outlook.com  
 **LinkedIn:** [linkedin.com/in/raghidshehayeb](https://www.linkedin.com/in/raghidshehayeb/)  
-**ORCID:** https://orcid.org/0000-0003-3683-3912  
-**Google Scholar**: [Raghid Shehayeb](https://scholar.google.com/citations?user=V3d5oPIAAAAJ&hl=en/)
+**ORCID:** https://orcid.org/0000-0003-3683-3912 | **Google Scholar**: [Raghid Shehayeb](https://scholar.google.com/citations?user=V3d5oPIAAAAJ&hl=en/)
 
 
 #### Professional Summary  
